@@ -1,0 +1,9 @@
+[submodule "docker-shad0w"]
+	path = docker-shad0w
+	url = https://github.com/Cyb3rWard0g/docker-shad0w
+[submodule "docker-poshc2"]
+	path = docker-poshc2
+	url = https://github.com/Cyb3rWard0g/docker-poshc2
+[submodule "docker-pupy"]
+	path = docker-pupy
+	url = https://github.com/Cyb3rWard0g/docker-pupy
